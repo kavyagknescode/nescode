@@ -1,0 +1,54 @@
+.navbar-brand {
+    text-transform: uppercase;
+    font-weight: 900;
+  }
+  
+  
+  .navbar-dark {
+	  background-color: rgb(201, 152, 0) !important ;
+  }
+  
+  .bg-dark {
+	  background-color: rgb(201, 152, 0) !important ;
+  }
+  /* Home page */
+  
+  .hero-home{
+	  padding-top: 20px;
+  }
+  
+  
+  .hero-home p{
+	  font-size: 20px;
+  }
+  
+  
+  .hero-home h2{
+	  font-weight: 900;
+  }
+  
+  .services-section{
+	  padding-top: 40px;
+  }
+  
+  .contact-card{
+	  padding-top: 40px;
+	  
+  }
+  
+  .contact-card-design{
+	  background-color: rgb(201, 152, 0);
+	  color: #FFF;
+  }
+  
+  .btn-primary {
+	  background-color: transparent;
+	  color: #000;
+	  text-transform: uppercase;
+  }
+  
+  .btn-primary :hover {
+	  background-color: blueviolet;
+	  text-transform: uppercase;
+  }
+	  
